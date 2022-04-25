@@ -3,6 +3,6 @@
 
 * ***MVVM 패턴***
 * Coroutines
-* Retrofit
+* Retrofit (제한사항 무시)
 
 ![gif_image](https://user-images.githubusercontent.com/62275738/161581722-c27a1ec3-f6ec-4077-9db9-82e2dff44140.gif)
